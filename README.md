@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**tarunmahashwari/tarunmahashwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on exploring robotics...
+- 🌱 I’m currently learning AI and Machine Learning and TensorFlow...
+- 👯 I’m looking to collaborate on Upcoming War between atheist and optimistic ...
+- 🤔 I’m looking for help with meditation...
+- 💬 Ask me about God...
+- 📫 How to reach me: http://tarunmahashwari.wordpress.com 
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I know Hindi
+-->
